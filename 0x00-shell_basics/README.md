@@ -1,13 +1,13 @@
 The directory contains the following files
 0-current_working_directory: current working directory
-100-lets_move:              
-101-clean_emacs:           
-102-tree:                  
-103-commas:                  text/plain
-10-back:                     text/plain
-11-lists:                    text/plain
-12-file_type:                text/plain
-13-symbolic_link:            text/plain
+100-lets_move: move the upper case letter              
+101-clean_emacs: delete all files          
+102-tree:create the directories                  
+103-commas: list files and directories
+10-back: change the working directory to the previous one 
+11-lists: current and parent directories
+12-file_type: print the iamafile in from the tmp
+13-symbolic_link: symbolic link to /bins/is
 14-copy_html:                text/plain
 1-listit:                    text/plain
 2-bring_me_home:             text/plain
