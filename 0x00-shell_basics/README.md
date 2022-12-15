@@ -1,5 +1,5 @@
 The directory contains the following files
-0-current_working_directory:
+0-current_working_directory: current working directory
 100-lets_move:              
 101-clean_emacs:           
 102-tree:                  
