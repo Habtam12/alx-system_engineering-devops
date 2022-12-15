@@ -7,21 +7,17 @@ The directory contains the following files
 10-back: change the working directory to the previous one 
 11-lists: current and parent directories
 12-file_type: print the iamafile in from the tmp
-13-symbolic_link: symbolic link to /bins/is
-14-copy_html:                text/plain
-1-listit:                    text/plain
-2-bring_me_home:             text/plain
-3-listfiles:                 text/plain
-4-listmorefiles:             text/plain
-5-listfilesdigitonly:        text/plain
-6-firstdirectory:            text/plain
-7-movethatfile:              text/plain
-8-firstdelete:               text/plain
-9-firstdirdeletion:          text/plain
-fake_school0:                text/plain
-fake_school1:                text/plain
-file_school0:                School
-file_school1:                School
-file_test0:                  inode/x-empty
+13-symbolic_link: symbolic link to bin
+14-copy_html: copy the html file from current working directory
+1-listit: the content list of the current working directory.
+2-bring_me_home: change the current working directory to home.
+3-listfiles:     current working directory contents in long format.
+4-listmorefiles:  Dispay current working directory contents
+5-listfilesdigitonly:   dirspay current working directory contents in long format
+6-firstdirectory : create directory named my first directory
+7-movethatfile: move the file betty from tmp 
+8-firstdelete: delete the file betty from tmp
+9-firstdirdeletion: delete my first directory
+
 h_school.mgc:                application/octet-stream
 README.md:     .
